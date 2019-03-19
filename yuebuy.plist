@@ -25,13 +25,13 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.yuebuy.nok</string>
+                <string>com.company.yuebuy</string>
                 <key>bundle-version</key>
                 <string>2.1.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>�ðݲ���</string>
+                <string>ÔÃ°Ý²âÊÔ</string>
             </dict>
         </dict>
     </array>
